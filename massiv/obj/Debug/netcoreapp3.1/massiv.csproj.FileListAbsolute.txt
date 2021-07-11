@@ -1,0 +1,13 @@
+C:\Users\Руслан\source\repos\Новая папка\massiv\massiv\bin\Debug\netcoreapp3.1\massiv.exe
+C:\Users\Руслан\source\repos\Новая папка\massiv\massiv\bin\Debug\netcoreapp3.1\massiv.deps.json
+C:\Users\Руслан\source\repos\Новая папка\massiv\massiv\bin\Debug\netcoreapp3.1\massiv.runtimeconfig.json
+C:\Users\Руслан\source\repos\Новая папка\massiv\massiv\bin\Debug\netcoreapp3.1\massiv.runtimeconfig.dev.json
+C:\Users\Руслан\source\repos\Новая папка\massiv\massiv\bin\Debug\netcoreapp3.1\massiv.dll
+C:\Users\Руслан\source\repos\Новая папка\massiv\massiv\bin\Debug\netcoreapp3.1\massiv.pdb
+C:\Users\Руслан\source\repos\Новая папка\massiv\massiv\obj\Debug\netcoreapp3.1\massiv.csproj.AssemblyReference.cache
+C:\Users\Руслан\source\repos\Новая папка\massiv\massiv\obj\Debug\netcoreapp3.1\massiv.AssemblyInfoInputs.cache
+C:\Users\Руслан\source\repos\Новая папка\massiv\massiv\obj\Debug\netcoreapp3.1\massiv.AssemblyInfo.cs
+C:\Users\Руслан\source\repos\Новая папка\massiv\massiv\obj\Debug\netcoreapp3.1\massiv.csproj.CoreCompileInputs.cache
+C:\Users\Руслан\source\repos\Новая папка\massiv\massiv\obj\Debug\netcoreapp3.1\massiv.dll
+C:\Users\Руслан\source\repos\Новая папка\massiv\massiv\obj\Debug\netcoreapp3.1\massiv.pdb
+C:\Users\Руслан\source\repos\Новая папка\massiv\massiv\obj\Debug\netcoreapp3.1\massiv.genruntimeconfig.cache
